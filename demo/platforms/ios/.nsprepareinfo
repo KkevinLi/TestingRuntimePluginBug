@@ -1,0 +1,22 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/Users/kevinli/github/TestPlugin/demo/app/app-root.xml": "4d636d23791d54df25c015113bbf9261428de9f6",
+		"/Users/kevinli/github/TestPlugin/demo/app/app.css": "4f966780968440a7ed1c1b1782e9bf2361fca49e",
+		"/Users/kevinli/github/TestPlugin/demo/app/app.js": "1b71a34fa544fe31f15b1e408b4bfe2adda7d00f",
+		"/Users/kevinli/github/TestPlugin/demo/app/app.ts": "9d1284e189ef22d9bffb2b6338430cd9d96adfc5",
+		"/Users/kevinli/github/TestPlugin/demo/app/main-page.js": "8a5d1f7310b59adb56ff478d267f9543a8d10426",
+		"/Users/kevinli/github/TestPlugin/demo/app/main-page.ts": "1d6a28d07eb1f25acedc9899c408085c680c4f15",
+		"/Users/kevinli/github/TestPlugin/demo/app/main-page.xml": "9bf07f1bdf13d57f80c617909f2d0a04a311fd6b",
+		"/Users/kevinli/github/TestPlugin/demo/app/main-view-model.js": "23f83e0efe5e62e605c9ddf366c9b860067b6ca9",
+		"/Users/kevinli/github/TestPlugin/demo/app/main-view-model.ts": "993061e011f3626c3e6ff768a383ade2e0252504",
+		"/Users/kevinli/github/TestPlugin/demo/app/package.json": "2080be6023c5e184a30a23b2319522a18d8fc232",
+		"/Users/kevinli/github/TestPlugin/demo/app/tests/tests.js": "37a73ed3abb96eba2b5e032eb7750f67b881b25a"
+	},
+	"release": false,
+	"bundle": false,
+	"changesRequireBuild": false,
+	"time": "Tue Apr 02 2019 11:19:24 GMT-0400 (Eastern Daylight Time)",
+	"changesRequireBuildTime": "Tue Apr 02 2019 11:16:30 GMT-0400 (Eastern Daylight Time)",
+	"projectFileHash": "8aa2f881e39386c5c85c0e3f21caabecf26ede420834ccd2cd635d6acf7e8501"
+}

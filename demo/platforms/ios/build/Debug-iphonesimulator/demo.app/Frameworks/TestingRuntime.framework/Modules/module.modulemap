@@ -1,0 +1,6 @@
+framework module TestingRuntime {
+  umbrella header "TestingRuntime.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+{
+	"nativescript-unit-test-runner": {
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-unit-test-runner/platforms/ios/Info.plist": "104a12bb8e6e11c9ffc94ac30639426494d74e01"
+	},
+	"nativescript-testplugin": {
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/build.xcconfig": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/.DS_Store": "b3d6d8662786107258e3bc4245859edbcca8e9e8",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/Info.plist": "8ccb0698816a9a3e64d6d82fa65349b9866b78ff",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/README.md": "8470908bf23f29387842616622c39ef2bcc2af65",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/Headers/Dummy.h": "a6a52fc7ec0dab25aa37e6e6d8bef5d741f0a409",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/Headers/TestingRuntime.h": "0a6249cb8416d5e8b4e882686f82d0c878557413",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/Modules/module.modulemap": "a943820feb0d3b786c7a96708bde1b8c86f55a72",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/Info.plist": "e8538060c592c8685b9a76364aa24d1d916c0b3d",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/_CodeSignature/CodeResources": "960176a90b4dbec9b1f192fe2dbd18753e376feb",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/typings/.DS_Store": "df2fbeb1400acda0909a32c1cf6bf492f1121e07",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/typings/objc!TestingRuntime.d.ts": "863c638c48de7564bcd606260a020df5cbe8b1b1",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/nativescript-testplugin/platforms/ios/TestingRuntime.framework/TestingRuntime": "b6a4addeb03ec9f59c9667fb061fe04956cb2636"
+	},
+	"tns-core-modules": {
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules/platforms/ios/src/NativeScriptEmbedder.h": "61d5332c711cc0ac62e0194e18077d2ff5293b11",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules/platforms/ios/src/NativeScriptEmbedder.m": "95f2f41d1868f418dd79a418c30a1c2ac85829f6",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules/platforms/ios/src/module.modulemap": "be8f57fbde98eb6950cdd245ff5021d7d8aa75e2"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h": "c7c5788d3ea834d96cf8a137cbf0c4ea28fd7829",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h": "f1435d046b4a9dd5d631db5ba5c9ddff04ee4bc3",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIImage+TNSBlocks.h": "3b31a5be818e25c142e99f98479c538632d350ae",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h": "787f09c57ede174d6323990e6d6e9eaf134da6f0",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIView+PassThroughParent.h": "cddc4157f40983b34fcb1d3846666b5ecc5b1ca5",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Info.plist": "19cd3faab8cc2d1419059d2904afd14b7560910a",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Modules/module.modulemap": "00d2220e76eb098f1808eb4e9b5c43ad4cadf1da",
+		"/Users/kevinli/github/TestPlugin/demo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/TNSWidgets": "e9d74a8d7cb71c16d0799de83310f8b5a6c6a7e8"
+	}
+}
